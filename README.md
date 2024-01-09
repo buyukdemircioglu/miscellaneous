@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/buyukdemircioglu/miscellaneous/main/tree_animate.glb
+https://raw.githubusercontent.com/buyukdemircioglu/miscellaneous/main/low_poly_tree.glb
